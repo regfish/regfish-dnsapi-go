@@ -1,4 +1,4 @@
-module regfish-dnsapi-go
+module github.com/regfish/regfish-dnsapi-go
 
 go 1.20
 
