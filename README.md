@@ -1,6 +1,6 @@
 # regfish DNS API Go Client
 
-[![Go Reference](https://pkg.go.dev/badge/test.svg)](https://github.com/regfish/regfish-dnsapi-go)
+[![Go Reference](https://pkg.go.dev/badge/test.svg)](https://pkg.go.dev/github.com/regfish/regfish-dnsapi-go)
 
 # Testing
 
